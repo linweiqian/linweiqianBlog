@@ -14,6 +14,10 @@
 - [头像制作](https://notion-avatar.vercel.app/zh) 
 - [在线简历生成](https://github.com/visiky/resume)
 - [V2Ray一键安装脚本](https://github.com/233boy/v2ray/wiki)
+- [base64转图片](https://tool.jisuapi.com/base642pic.html)
+- [百度拾取坐标](http://api.map.baidu.com/lbsapi/getpoint/)
+- [JSON格式验证](https://www.json.cn/)
+- [工资所得税计算](https://shui.xuenb.com/)
 
 ## 教程/课程
 - [Web3](https://www.web3byexample.com/)
